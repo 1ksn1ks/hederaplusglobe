@@ -1,4 +1,4 @@
-extarct zip
+extract zip
 
 open folder in coding program
 
